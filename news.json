@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Estreia",
+    "description": "Brasileiro Feminino da Série A3 estreia em edição inédita com clássicos na primeira fase",
+    "image": "https://s2.glbimg.com/fD6ljKwBBS3QQSq737zCD35ekLs=/0x0:1024x683/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/2/cSSB0KQkyMYTOWZELsHQ/sport.jpg",
+    "link" "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml":
+  },
+  {
+    "title": "Segunda edição!!",
+    "description": "Organização da Brasil Ladies Cup negocia para ter primeira equipe da Europa no torneio",
+    "image": "https://s2.glbimg.com/cPXvEeIJSXP8oPe2-ERjnMY4cPI=/0x0:640x360/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/Z/D/qk04kOTe2nDUPsTIGV4Q/spcampeao.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/08/organizacao-da-brasil-ladies-cup-negocia-para-ter-primeira-equipe-da-europa-no-torneio.ghtml"
+  },
+  {    
+    "title": "Renovado",
+    "description": "Vivianne Miedema renova contrato com o Arsenal feminino e encerra especulações sobre transferência",
+    "image": "https://s2.glbimg.com/4dSFOgohhcS2_ovXF504vk3MiBI=/0x0:2033x2033/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/2/g/v8123EQnGLEDJkSdBaZQ/miedema.jfif",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2022/05/20/vivianne-miedema-renova-contrato-com-o-arsenal-feminino-e-encerra-especulacoes-de-transferencia.ghtml"
+  },
+]
